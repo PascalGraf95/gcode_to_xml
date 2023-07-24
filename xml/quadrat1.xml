@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Program>
+<Header />
+<Linear AbortCondition="False" Nr="1" Source="Numerical" vel="1500" acc="40" smooth="0" x="203.916" y="136.084" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="2" Source="Numerical" vel="1500" acc="40" smooth="0" x="203.916" y="136.084" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="3" Source="Numerical" vel="1500" acc="40" smooth="0" x="476.084" y="136.084" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="4" Source="Numerical" vel="1500" acc="40" smooth="0" x="476.084" y="-136.084" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="5" Source="Numerical" vel="1500" acc="40" smooth="0" x="203.916" y="-136.084" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="6" Source="Numerical" vel="1500" acc="40" smooth="0" x="203.916" y="136.084" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="7" Source="Numerical" vel="1500" acc="40" smooth="0" x="203.916" y="136.084" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="8" Source="Numerical" vel="1500" acc="40" smooth="0" x="202.689" y="136.084" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="9" Source="Numerical" vel="1500" acc="40" smooth="0" x="202.942" y="137.058" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="10" Source="Numerical" vel="1500" acc="40" smooth="0" x="477.058" y="137.058" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="11" Source="Numerical" vel="1500" acc="40" smooth="0" x="476.960" y="138.208" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="12" Source="Numerical" vel="1500" acc="40" smooth="0" x="478.773" y="138.875" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="13" Source="Numerical" vel="1500" acc="40" smooth="0" x="480.000" y="139.996" z="150.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="14" Source="Numerical" vel="1500" acc="40" smooth="0" x="480.000" y="139.996" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="15" Source="Numerical" vel="1500" acc="40" smooth="0" x="200.000" y="139.996" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="16" Source="Numerical" vel="1500" acc="40" smooth="0" x="200.000" y="-139.996" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="17" Source="Numerical" vel="1500" acc="40" smooth="0" x="480.000" y="-139.996" z="100.000" a="180" b="0" c="180" Descr=""/>
+<Linear AbortCondition="False" Nr="18" Source="Numerical" vel="1500" acc="40" smooth="0" x="480.000" y="139.996" z="100.000" a="180" b="0" c="180" Descr=""/>
+</Program>
